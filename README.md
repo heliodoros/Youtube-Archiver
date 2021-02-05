@@ -9,4 +9,4 @@ composer install
 ```
 to install the Google PHP Client
 
-edit config.php with your YouTube API credentials and video.php with your database credentials (database scaffolding in archiver.sql)
+edit config.php with your YouTube API credentials and video.php:192 with your database credentials (database scaffolding in archiver.sql)
