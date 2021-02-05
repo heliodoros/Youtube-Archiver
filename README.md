@@ -1,5 +1,6 @@
 # Youtube-Archiver
-Project for personal use, which keeps a backup of your YouTube playlists and keeps track of video names and IDs in case those videos get deleted
+This project is due to be remade with (.NET or NodeJS)
+This project keeps a backup of your Playlists and the Video names and IDs in case those videos get deleted.
 
 run
 ```sh
