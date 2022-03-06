@@ -12,6 +12,7 @@ $youtube = new Google_Service_YouTube($client);
 $client->setClientId($OAUTH2_CLIENT_ID);
 $client->setClientSecret($OAUTH2_CLIENT_SECRET);
 $client->setScopes(array(
+  "https://www.googleapis.com/auth/userinfo.profile",
   "https://www.googleapis.com/auth/youtube",
   "https://www.googleapis.com/auth/youtube.force-ssl",
   "https://www.googleapis.com/auth/youtube.readonly",
